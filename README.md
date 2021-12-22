@@ -7,7 +7,7 @@
 [프로젝트]
 - Repository 접근하려면 초대 수락후 계정 로그인 OR 관리자 계정 로그인 
 - 주소: https://github.com/MVUS-SAR/MVUS-SAR
-- 멤버는 Admin 권한을 부여하며 pull, push, commit을 자유로 할 수 있음.
+- 멤버는 Admin 권한을 부여하며 pull, push, commit을 자유롭게 할 수 있음.
 
 [개발일정]
 - ~22/01/14: SAR 지상시험 시작
