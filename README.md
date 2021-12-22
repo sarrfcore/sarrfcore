@@ -1,3 +1,4 @@
-SAR를 SARang하는 모임
+자료 공유 계정
 
-*SAR: 영상레이더
+1. 우측상단 프사 옆 화살표 클릭
+2. Your organizations > MVUS-SAR
